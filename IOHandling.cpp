@@ -36,7 +36,6 @@ void IOHandling::main_menu() const {
 	cout << "5..Kapcsolat bontasa peer-el" << endl;
 	cout << "6..Peerek hiba uzenetei" << endl;
 	cout << "7..Peer kapcsolatok torlese" << endl;
-	cout << "8..Jatek kezdemenyezes" << endl;
 
 	cout << "0..Kilepes" << endl;
 }

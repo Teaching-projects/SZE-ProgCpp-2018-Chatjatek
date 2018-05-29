@@ -7,7 +7,6 @@
 #include "WS_Initiator.h"
 #include "CommData.hpp"
 #include "IOHandling.hpp"
-#include "GameTable.hpp"
 #include <chrono>
 
 using namespace std::chrono;
